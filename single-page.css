@@ -300,7 +300,7 @@ mark.stat {
 
 .sp-quick-stats {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 0;
   margin-top: 5rem;
   border-top: 1px solid var(--rule-2);
