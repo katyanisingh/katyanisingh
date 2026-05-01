@@ -87,7 +87,7 @@ function AboutSection() {
             Katyani<br />
             <em>Singh</em>
           </h1>
-          <p className="sp-tag">Building fairness, safety and robustness into vision-language models at training time, as structural properties of representation.
+          <p className="sp-tag">Building fairness, safety and robustness into vision-language models, as structural properties of representation.
 
 
           </p>
